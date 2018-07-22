@@ -30,7 +30,7 @@ function iLoveTheBeatles(number) {
   var arraystring = [];
 
   do {
-//    arraystring[indx] = "I love the Beatles!";
+    arraystring[indx] = "I love the Beatles!";
     indx++;
     num++;
   }
