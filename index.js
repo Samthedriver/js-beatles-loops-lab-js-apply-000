@@ -27,10 +27,10 @@ return fac
 function iLoveTheBeatles(number) {
   var num = number;
   var indx = 0;
-  var arraystring = "I love the Beatles!";
+  var arraystring[];
 
   do {
-//    arraystring[indx] = "I love the Beatles!";
+    arraystring[indx] = "I love the Beatles!";
     indx++;
     num++;
   }
